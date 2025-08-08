@@ -21,7 +21,7 @@ Built with **Spring Boot**, **PostgreSQL**, and **React**.
 - Hosted on [Vercel](https://vercel.com)  
 
 **Backend**  
-- Spring Boot (Java 17)  
+- Spring Boot (Java 21)  
 - PostgreSQL for persistent storage  
 - Hosted on [Render](https://render.com)  
 
