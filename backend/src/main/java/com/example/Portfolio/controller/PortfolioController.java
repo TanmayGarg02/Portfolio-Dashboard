@@ -13,7 +13,7 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/api/portfolio")
-@CrossOrigin(origins = {"http://localhost:5173", "http://localhost:8080"},
+@CrossOrigin(origins = {"https://portfolio-dashboard-seven-tan.vercel.app/"},
         methods = {RequestMethod.GET, RequestMethod.POST, RequestMethod.PUT, RequestMethod.DELETE},
         allowCredentials = "true")
 public class PortfolioController {

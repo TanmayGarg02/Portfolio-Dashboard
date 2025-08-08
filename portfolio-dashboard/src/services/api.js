@@ -1,5 +1,5 @@
 // Simple API service for portfolio data
-const API_BASE_URL = 'http://localhost:8080/api';
+const API_BASE_URL = 'https://portfolio-dashboard-ufxa.onrender.com/api';
 
 // Simple fetch function with error handling
 const fetchData = async (endpoint) => {
