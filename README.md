@@ -25,6 +25,3 @@ Built with **Spring Boot**, **PostgreSQL**, and **React**.
 - PostgreSQL for persistent storage  
 - Hosted on [Render](https://render.com)  
 
----
-
-## 📂 Project Structure
